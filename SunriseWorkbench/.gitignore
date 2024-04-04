@@ -1,0 +1,23 @@
+# Tracks only the "src" directory , "SafetyConfiguration.sconf" and "StationSetup.cat" file
+
+###############################################
+# Universal
+###############################################
+
+# ignore these directories
+.SafetyConfiguration/
+.SafetyData/
+.settings/
+.Sunrise/
+bin/
+examples/
+KUKAJavaLib/
+src_bin/
+
+# ignore these files
+*.classpath
+*.project
+
+###############################################
+# Project specific
+###############################################

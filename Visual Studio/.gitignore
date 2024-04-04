@@ -1,0 +1,19 @@
+###############################################
+# Universal
+###############################################
+# ignore these directories
+inc/lib_inc
+
+x64/
+
+lib/
+
+###############################################
+# Project specific
+###############################################
+# ignore these files
+*.vcxproj
+
+*.vcxproj.filters
+
+*.vcxproj.user
